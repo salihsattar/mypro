@@ -1,2 +1,2 @@
-# mypro
-first project
+# My Project
+First Project is made by me
